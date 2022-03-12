@@ -15,3 +15,16 @@ const showName = object => {
 const colors = students.map(student => student.color);
 console.log(colors); 
 students.forEach(student => showName(student));
+
+// filtering those who are younger than 30
+const younger = students.filter(stuedent=> stuedent.age < 35);// returns  all the objects that have the age undear 35
+console.log(younger);
+const forsha = students.filter(student => student.color == "forsha");
+console.log(forsha);
+const all = students.filter(stuedent => true);
+console.log(all);
+
+
+// find methode (will give the first item )
+const boro = students.find(student => student.age < 60);
+console.log(boro);
