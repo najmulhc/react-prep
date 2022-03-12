@@ -1,0 +1,3 @@
+declaretion of a variable using var, let and const 
+testing a thing using conditional 
+loop(for, while for of .)
