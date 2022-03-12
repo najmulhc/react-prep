@@ -28,3 +28,8 @@ bookgula.push("shesher kobita");
 console.log(seller.books);
 spreadBooks.push("ekattorer dinguli");
 console.log(seller.books);
+
+// make a new array from an existing one and add an another element to the new array 
+const newArray  = [...seller.books];
+newArray.push( "bishad sindhu");
+console.log(newArray);
