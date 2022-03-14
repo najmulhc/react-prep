@@ -34,4 +34,4 @@ const student = {
 console.log(student.roll);
 console.log(student["roll"]);
 const nameVar = "name";
-console.log(student[nameVar])
+console.log(student[nameVar]);

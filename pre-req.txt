@@ -1,0 +1,18 @@
+6 fundamentals 
+template string 
+arrow function 
+spread operator 
+
+array methodes 
+
+array and object destructuring 
+
+optional chaining 
+
+json and api 
+
+array add or remove using dots 
+
+truthy and falsy 
+
+ternary operator
